@@ -14,3 +14,12 @@
   background-color:blue;
   color:white; 
 }
+.day {
+  background-color: white;
+  color: black;
+}
+
+.button_day {
+  background-color: lightblue;
+  color: black;
+}
