@@ -1,7 +1,7 @@
 //your code here
 
 function swapTheme() {
-    var appDiv = document.getElementById('app');
+    var appDiv = document.querySelector('main');
     var swapButton = document.getElementById('swap');
     
     if(appDiv.classList.contains('day')) {
